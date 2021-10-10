@@ -1,6 +1,6 @@
 # ADM-HM1
 
-First homework for the Algorithm Methods of Data Mining.
+First homework for the Algorithmic Methods of Data Mining.
 
 In the `scripts` file there are the solutions to all the exercises organised in Jupyter Notebook.
 
