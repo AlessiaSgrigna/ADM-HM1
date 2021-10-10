@@ -6,4 +6,4 @@ In the `scripts` file there are the solutions to all the exercises organised in 
 
 In the PDF file there is the complete list of submissions.
 
-In some exercises I helped myself to write the code with the solutions and with other people's answers that are on the _Discussion_ page. I showed in which exerxise I used the solutions in the notebook.
+In some exercises I helped myself to write the code with the solutions and with other people's answers that are on the _Discussion_ page. I showed in which exercise I used the solutions in the notebook.
